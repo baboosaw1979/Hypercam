@@ -210,4 +210,4 @@ HyperCam is available as a **full free version** for Windows, with all features 
 Start capturing your screen effortlessly with **HyperCam** today! Click the download button above to get started!
 
 ---
-**Last updated:** 2026-09-20 17:05:16 UTC
+**Last updated:** 2026-09-20 19:55:32 UTC
